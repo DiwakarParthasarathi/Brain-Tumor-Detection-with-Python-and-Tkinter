@@ -1,7 +1,7 @@
 # Brain-Tumor-Detection-with-Python-and-Tkinter
 
 
-**Overview **
+**Overview**
 
 This repository contains the code for a brain tumor detection system using machine learning. The goal of this project is to leverage machine learning algorithms to analyze medical images and identify the presence of brain tumors.
 
